@@ -13,7 +13,7 @@ Things TODO after Download the files:
    4. Setup the bms.sql file into your database. 
    
 
-
+You can deposite and withdraw the money create the account base on the SSN number
 
 
    
