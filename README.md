@@ -17,8 +17,9 @@ You can deposite and withdraw the money create the account base on the SSN numbe
 
 
    
-There is still remaining to do the Admin parts it will come soon..
+Admin can do the following task. 
  1. Admin can only do the add the SSN number and give to the Customer so they can create the Account 
  2. withou SSN Number Customer cannot make the account.
  3. Admin can check all the customer account.
  4. Close the customer Account.
+ 5. check the SSN number
