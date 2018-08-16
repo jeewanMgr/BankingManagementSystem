@@ -1,10 +1,10 @@
 # BankingManagementSystem
 
 #1 Simple Banking Management System Using following tools:
-        Java
-        JDBC
-        MySQL
-        JFrame
+        Java,
+        JDBC,
+        MySQL,
+        JFrame,
         Server (Apache + MariaDB)
          
 #2 Environment Setup
