@@ -1,25 +1,25 @@
 # BankingManagementSystem
 
-It's a simple Banking Management System using Batabase 
-   Tools Using 
-         java
-         JDBC
-         mysql
+#1 Simple Banking Management System Using following tools:
+ Java
+ JDBC
+ MySQL
+ JFrame
+ Server (Apache + MariaDB)
+         
+#2 Environment Setup
+1. Download eclipse or any IDE and setup the DataBase Connection.
+2. Setup the download library with the root of your project.
+3. Setup the path of the image if did not find the image after you run the program.
 
-Things TODO after Download the files:
-   1. Download the folder and make your root path for the two jr.
-   2. Changes the image paths because image paths is incorrect here as i put the absolute path for the image. 
-   3. Download bms.sql file and follow step 4.
-   4. Setup the bms.sql file into your database. 
-   
+ 
+#3 Customer can do the following task
+1. Withdraw the Balance.
+2. Deposite the Balance.
+3. View the Balance
 
-You can deposite and withdraw the money create the account base on the SSN number
-
-
-   
-Admin can do the following task. 
+#4 Admin can do the following task. 
  1. Admin can only do the add the SSN number and give to the Customer so they can create the Account 
  2. withou SSN Number Customer cannot make the account.
- 3. Admin can check all the customer account.
+ 3. Admin can check all the customer account and SSN number.
  4. Close the customer Account.
- 5. check the SSN number
